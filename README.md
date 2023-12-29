@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_engrtee" target="blank"><img src="https://img.shields.io/twitter/follow/_engrtee?logo=twitter&style=for-the-badge" alt="_engrtee" /></a> </p>
 
-- **Technical Interests** Software Development: I specialize in creating blazing-fast, highly responsive web and mobile applications using cutting-edge frontend and backend technologies.
+- **Technical Interests :** I specialize in creating blazing-fast, highly responsive software systems including web and mobile applications using cutting-edge frontend and backend technologies.
 
-- **I’m looking to collaborate on** Technical projects, including Exciting Open-Source Projects and developing a cool web app.
+- **I’m looking to collaborate on :** Technical projects, including Exciting Open-Source Projects and developing a cool web and mobile application.
 
 - **Email me** **tobechi.duru001@gmail.com**
 
