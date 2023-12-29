@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobe01&label=Profile%20views&color=0e75b6&style=flat" alt="tobe01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cousinteee" target="blank"><img src="https://img.shields.io/twitter/follow/cousinteee?logo=twitter&style=for-the-badge" alt="cousinteee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_engrtee" target="blank"><img src="https://img.shields.io/twitter/follow/_engrtee?logo=twitter&style=for-the-badge" alt="_engrtee" /></a> </p>
 
 - **Technical Interests** Software Development: I specialize in creating blazing-fast, highly responsive web and mobile applications using cutting-edge frontend and backend technologies.
 
