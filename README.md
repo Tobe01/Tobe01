@@ -11,7 +11,7 @@
 
 - **I’m looking to collaborate on** Technical projects, including Exciting Open-Source Projects and developing a cool web app.
 
-- **Reach me on** **tobechi.duru001@gmail.com**
+- **Email me** **tobechi.duru001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
