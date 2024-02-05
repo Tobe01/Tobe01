@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobechi</h1>
-<h3 align="center">A seasoned full-stack software engineer who thrives on intricate code architecture and solving complex technical puzzles. I've architected and built robust software systems that can handle millions of requests, focusing on performance, security and maintainability.</h3>
+<h3 align="center">A seasoned frontend software developer who thrives on intricate code architecture and solving complex technical puzzles. I've architected and built robust software systems that can handle millions of requests, focusing on performance, security and maintainability.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_engrtee" target="blank"><img src="https://img.shields.io/twitter/follow/_engrtee?logo=twitter&style=for-the-badge" alt="_engrtee" /></a> </p>
 
-- **Technical Interests :** I specialize in creating blazing-fast, highly responsive software systems including web and mobile applications using cutting-edge frontend and backend technologies.
+- **Technical Interests :** I specialize in creating blazing-fast, mobile first, highly responsive software systems including web and mobile applications using cutting-edge frontend technologies.
 
 - **I’m looking to collaborate on :** Technical projects, including Exciting Open-Source Projects and developing a cool web and mobile application.
 
