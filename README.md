@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobechi</h1>
-<h3 align="center">A skilled frontend software engineer who thrives on intricate code architecture and solving complex technical puzzles. I've architected and built robust software systems that can handle millions of requests, focusing on performance, security and maintainability. "Let's build tomorrow's solutions today!".</h3>
+<h3 align="center">A skilled MERN Stack software engineer who thrives on intricate code architecture and solving complex technical puzzles. I've architected and built robust software systems that can handle millions of requests, focusing on performance, security and maintainability. "Let's build tomorrow's solutions today!".</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobe01&label=Profile%20views&color=0e75b6&style=flat" alt="tobe01" /> </p>
 
