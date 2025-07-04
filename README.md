@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_engrtee" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="_engrtee" height="30" width="30" />
+  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F114163&psig=AOvVaw0lqY6HO1sgxwYPCBe7bfKq&ust=1751720257609000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCm5J6MpI4DFQAAAAAdAAAAABAK" />
 </a>
 <a href="https://linkedin.com/in/tobechiduru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobechiduru" height="30" width="40" /></a>
 </p>
