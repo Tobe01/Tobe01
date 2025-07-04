@@ -9,8 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_engrtee" target="_blank">
-  <a href="https://www.flaticon.com/free-icons/tweet" title="tweet icons"></a>
-<!--   <img align="center" src="https://cdn-icons-png.flaticon.com/512/6422/6422200.png" alt="_engrtee" height="30" width="30" /> -->
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/X_logo_2023.svg/32px-X_logo_2023.svg.png" alt="_engrtee" height="30" width="30" />
 </a>
 <a href="https://linkedin.com/in/tobechiduru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobechiduru" height="30" width="40" /></a>
 </p>
