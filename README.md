@@ -8,8 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_engrtee" target="blank"><img align="center" src="https://img.shields.io/badge/-_-black.svg?logo=X&logoColor=white&labelColor=black
-" alt="_engrtee" height="30" width="40" /></a>
+<a href="https://twitter.com/_engrtee" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/FFFFFF" height="20" alt="_engrtee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tobechiduru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tobechiduru" height="30" width="40" /></a>
 <a href="https://hashnode.com/@tobechiduru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tobechiduru" height="30" width="40" /></a>
 </p>
