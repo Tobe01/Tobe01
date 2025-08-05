@@ -7,11 +7,23 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<a href="https://twitter.com/_engrtee" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/tobechiduru" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@tobechiduru" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
+<!-- <p align="left">
 <a href="https://twitter.com/_engrtee" target="blank"><img align="center"  src="https://cdn.simpleicons.org/x/FFFFFF/000000" height="20" alt="_engrtee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tobechiduru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobechiduru" height="30" width="40" /></a>
 <a href="https://hashnode.com/@tobechiduru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tobechiduru" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
