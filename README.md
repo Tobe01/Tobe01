@@ -22,11 +22,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tobe01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-<p><img align="left" ![](https://github-readme-stats.vercel.app/api?username=tobe01&theme=dark&hide_border=false&include_all_commits=false&count_private=false) /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tobe01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tobe01" /></p>
 
-<p>&nbsp;<img align="center" ![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=dark&hide_border=false) /></p>
+<p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=dark&hide_border=false" alt="tobe01" /></p>
 
-<p><img align="center" ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tobe01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobe01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p> 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobe01&show_icons=true&locale=en&layout=compact" alt="tobe01" /></p>
 
