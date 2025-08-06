@@ -30,6 +30,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobe01&" alt="tobe01" /></p>
 
 
-# Blog posts
+### 📕 Latest Blog Posts
+
+- [Building a Reusable Notification System with JavaScript and the DOM](https://tobechiduru.hashnode.dev/building-a-reusable-notification-system-with-javascript-and-the-dom)
+- [My Web3 Wake-Up Call](https://tobechiduru.hashnode.dev/my-web3-wake-up-call)
+- [Penetration Testing for Developers](https://tobechiduru.hashnode.dev/what-is-penetration-testing-simple-explanation-for-developers)
+
+<!-- # Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
