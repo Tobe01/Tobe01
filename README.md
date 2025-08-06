@@ -25,12 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobe01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="tobe01" /></p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tobe01&show_icons=true&locale=en&layout=compact" alt="tobe01" /></p> -->
-
 ![](https://github-readme-stats.vercel.app/api?username=tobe01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobe01&show_icons=true&locale=en" alt="tobe01" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobe01&" alt="tobe01" /></p> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=dark&hide_border=false)<br/>
 
 
