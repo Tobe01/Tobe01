@@ -33,7 +33,7 @@
 ### 📕 Latest Blog Articles
 
 - [Building a Reusable Notification System with JavaScript and the DOM](https://tobechiduru.hashnode.dev/building-a-reusable-notification-system-with-javascript-and-the-dom)
-- [Talking to Machines: My Prompt Engineering Deep Dive](https://tobechiduru.hashnode.dev/talking-to-machines-my-prompt-engineering-deep-dive)
+- [Building a Lightweight API Rate Limiter in Node.js Without External Libraries](https://tobechiduru.hashnode.dev/building-a-lightweight-api-rate-limiter-in-nodejs-without-external-libraries)
 - [Penetration Testing for Developers](https://tobechiduru.hashnode.dev/what-is-penetration-testing-simple-explanation-for-developers)
 
 <!-- # Blog posts -->
