@@ -26,7 +26,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tobe01&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="tobe01's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobe01&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="tobe01's GitHub stats" /> |
 | ------------- | ------------- |
 
-![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=transparent&show_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=transparent&show_border=false)<br/>
 
 
 ### 📕 Latest Blog Articles
