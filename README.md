@@ -29,7 +29,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=tobe01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
-![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=transparent&show_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=transparent&hide_border=false)<br/>
 
 
 ### 📕 Latest Blog Articles
