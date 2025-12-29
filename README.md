@@ -2,7 +2,7 @@
 <h3 align="center">A skilled software engineer who thrives on intricate code architecture and solving complex technical tickets. I've architected and built robust software systems that can handle millions of requests, focusing on performance, security and maintainability. "Building High-Performance Software Systems!".</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobe01&label=Profile%20views&color=0e75b6&style=flat" alt="tobe01" /> </p>
-[![wakatime](https://wakatime.com/badge/user/a579466c-c443-47c9-a51e-bb5f81261408.svg)](https://wakatime.com/@a579466c-c443-47c9-a51e-bb5f81261408)
+<a href="https://wakatime.com/@a579466c-c443-47c9-a51e-bb5f81261408"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/a579466c-c443-47c9-a51e-bb5f81261408.svg" alt=""/></a>
 
 <p align="left"> <a href="https://twitter.com/_engrtee" target="blank"><img src="https://img.shields.io/twitter/follow/_engrtee?logo=twitter&style=for-the-badge" alt="_engrtee" /></a> </p>
 
