@@ -6,7 +6,7 @@
 <a href="https://wakatime.com/@a579466c-c443-47c9-a51e-bb5f81261408"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/a579466c-c443-47c9-a51e-bb5f81261408.svg" alt=""/></a>
 <div>
 
-<p align="left"> <a href="https://twitter.com/_engrtee" target="blank"><img src="https://img.shields.io/twitter/follow/_engrtee?logo=twitter&style=for-the-badge" alt="_engrtee" /></a> </p>
+[![twitter](https://img.shields.io/twitter/follow/_engrtee?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/_engrtee)
 
 
 <h3 align="left">Connect with me:</h3>
