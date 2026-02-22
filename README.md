@@ -26,6 +26,9 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=tobe01&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" alt="tobe01's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobe01&theme=radical&langs_count=8&layout=compact&hide_border=true" alt="tobe01's GitHub stats" /> |
 | ------------- | ------------- |
 
+| <img align="center" src="https://github-stats-extended.vercel.app/api?username=sin4ch&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="sin4ch's GitHub stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sin4ch&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="sin4ch's GitHub stats" /> |
+| ------------- | ------------- |
+
 ![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=radical&show_border=false)<br/>
 
 
