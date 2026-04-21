@@ -6,9 +6,6 @@
 <a href="https://user-badge.committers.top/nigeria/Tobe01">
   <img src="https://user-badge.committers.top/nigeria/Tobe01.svg" height="20" />
 </a>
-<a href="https://top-badge.vercel.app/nigeria/Tobe01?category=commits&label=&color=0e75b6&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Nigeria">
-  <img src="https://top-badge.vercel.app/nigeria/Tobe01?category=commits&label=&color=0e75b6&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Nigeria" alt="Committers Top Badge" />
-</a>
 <a href="https://wakatime.com/@a579466c-c443-47c9-a51e-bb5f81261408">
   <img height="20" padding-left=20 src="https://wakatime.com/badge/user/a579466c-c443-47c9-a51e-bb5f81261408.svg" alt=""/>
 </a>
@@ -37,6 +34,7 @@
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=radical&show_border=false)<br/>
+[![Committers Top Badge](https://top-badge.vercel.app/nigeria/Tobe01?category=commits&label=&color=12100E&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Nigeria)](https://top-badge.vercel.app/nigeria/Tobe01?category=commits&label=&color=12100E&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Nigeria)
 
 
 ### 📕 Latest Blog Articles
