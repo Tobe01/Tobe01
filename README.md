@@ -34,7 +34,7 @@
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tobe01&theme=radical&show_border=false)<br/>
-[![Committers Top Badge](https://top-badge.vercel.app/nigeria/Tobe01?category=commits&label=&color=radical&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Nigeria)](https://top-badge.vercel.app/nigeria/Tobe01?category=commits&label=&color=radical&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Nigeria)
+[![Committers Top Badge](https://top-badge.vercel.app/nigeria/Tobe01?category=commits&label=&color=0e75b6&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Nigeria)](https://top-badge.vercel.app/nigeria/Tobe01?category=commits&label=&color=0e75b6&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Nigeria)
 
 
 ### 📕 Latest Blog Articles
