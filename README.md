@@ -4,7 +4,7 @@
 <div display="flex">
 <img src="https://komarev.com/ghpvc/?username=tobe01&label=Profile%20views&color=0e75b6&style=flat" alt="tobe01" /> 
 <a href="https://wakatime.com/@a579466c-c443-47c9-a51e-bb5f81261408"><img height="20" padding-left=20 src="https://wakatime.com/badge/user/a579466c-c443-47c9-a51e-bb5f81261408.svg" alt=""/></a>
-[![committers.top badge](https://user-badge.committers.top/nigeria/tobe01.svg)](https://user-badge.committers.top/nigeria/tobe01)
+[![committers.top badge](https://user-badge.committers.top/nigeria/Tobe01.svg)](https://user-badge.committers.top/nigeria/Tobe01)
 <div>
 
 <h3 align="left">Connect with me:</h3>
